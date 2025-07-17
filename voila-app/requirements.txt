@@ -1,6 +1,0 @@
-ipywidgets
-pandas
-requests
-voila
-numpy
-
