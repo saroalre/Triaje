@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saroalre/Triaje/HEAD?urlpath=voila/render/voila-app/app.ipynb)
+https://hub.gesis.mybinder.org/user/saroalre-triaje-poi1utwn/doc/tree/voila/render/voila-app/app.ipynb
