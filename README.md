@@ -1,1 +1,1 @@
-[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saroalre/Triaje/3414daf8bdd883408b6da8e42cf5e5e833550dcc?urlpath=lab%2Ftree%2Fvoila%2Frender%2Fvoila-app%2Fapp.ipynb)
+[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/saroalre-triaje-poi1utwn/doc/workspaces/auto-w/tree/voila/render/voila-app/app.ipynb)
